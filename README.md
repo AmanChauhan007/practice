@@ -1,4 +1,4 @@
 # practice
 
 This is my first repo.
-Author- Aman Chauhan
+Author- Aman Chauhan (nanu)
